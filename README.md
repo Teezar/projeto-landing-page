@@ -1,2 +1,6 @@
 # projeto-landing-page
-Este é o projeto do desafio do módulo base do curso de Pós-Graduação da DNC em Arquitetura de Soluções
+Desafio 1 - Resolução
+
+Link do site: https://projeto-landing-page-three-navy.vercel.app
+Link do form: https://shorturl.at/NPbPE
+
